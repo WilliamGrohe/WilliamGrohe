@@ -8,7 +8,7 @@
 
 :books:  I’m currently learning ReactJS.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: create a new project and find a new challenges.
 
 ## About me
 
